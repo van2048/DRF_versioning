@@ -23,10 +23,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="urls.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="urls.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test_drf/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="0" selection-start="660" selection-end="660" vertical-scroll-proportion="0.3580902" vertical-offset="0" max-vertical-offset="754">
+            <state line="18" column="0" selection-start="660" selection-end="660" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
               <folding>
                 <element signature="e#0#51#0" expanded="true" />
               </folding>
@@ -52,10 +52,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="settings.py" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="settings.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test_drf/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="38" column="14" selection-start="1024" selection-end="1024" vertical-scroll-proportion="0.0" vertical-offset="468" max-vertical-offset="1440">
+            <state line="74" column="0" selection-start="1855" selection-end="1855" vertical-scroll-proportion="0.6816976" vertical-offset="596" max-vertical-offset="1350">
               <folding />
             </state>
           </provider>
@@ -139,11 +139,11 @@
         <option value="$PROJECT_DIR$/app_drf/v1/ver_app_drf/views.py" />
         <option value="$PROJECT_DIR$/test_drf/urls.py" />
         <option value="$PROJECT_DIR$/app_drf/v2/urls.py" />
-        <option value="$PROJECT_DIR$/test_drf/settings.py" />
         <option value="$PROJECT_DIR$/app_drf/models.py" />
         <option value="$PROJECT_DIR$/app_drf/v2/ver_app_drf/serializers.py" />
         <option value="$PROJECT_DIR$/app_drf/v1/urls.py" />
         <option value="$PROJECT_DIR$/app_drf/urls.py" />
+        <option value="$PROJECT_DIR$/test_drf/settings.py" />
       </list>
     </option>
   </component>
@@ -547,13 +547,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_drf/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="14" selection-start="1024" selection-end="1024" vertical-scroll-proportion="0.0" vertical-offset="468" max-vertical-offset="1440">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app_drf/v2/ver_app_drf/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="0" selection-start="292" selection-end="292" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210">
@@ -604,10 +597,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test_drf/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="0" selection-start="660" selection-end="660" vertical-scroll-proportion="0.3580902" vertical-offset="0" max-vertical-offset="754">
+        <state line="18" column="0" selection-start="660" selection-end="660" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
           <folding>
             <element signature="e#0#51#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_drf/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="74" column="0" selection-start="1855" selection-end="1855" vertical-scroll-proportion="0.6816976" vertical-offset="596" max-vertical-offset="1350">
+          <folding />
         </state>
       </provider>
     </entry>

@@ -37,7 +37,6 @@ INSTALLED_APPS = (
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'app_drf',
-#    'south',
     'rest_framework',
 )
 
@@ -62,11 +61,6 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
         'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
-#        'ENGINE': 'django.db.backends.mysql',
-#        'NAME': 'gj_test_drf',
-#        'USER': 'gj_test_drf',
-#        'PASSWORD': 'gj_test_drf',
-#        'TEST_CHARSET': "utf8",
     }
 }
 
